@@ -7,7 +7,7 @@
 I sit at the intersection of business strategy and technical execution. Currently finishing my MSc in Business Analytics at Esade Business School, with 2+ years of experience driving data strategy at Teleperformance as a Google Partner. I don't just analyze data, I build tools that solve real problems.
 
 📍 Barcelona · 🌍 Lived in Spain, Chile & Portugal  
-🗣️ Spanish · Catalan · English · Learning German & French
+🗣️ Spanish · Catalan · English 
 
 ---
 
