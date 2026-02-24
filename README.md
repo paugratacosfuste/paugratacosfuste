@@ -19,15 +19,15 @@ I believe the best analysts are also builders. Here are some things I've been wo
 <tr>
 <td width="50%">
 
-**🏋️ [TriCoach AI](https://github.com/paugratacosfuste/tricoach)**  
-AI-powered triathlon coach that generates personalized, adaptive weekly training plans using Claude AI. Built with TypeScript, React, Supabase auth & Vercel.  
+**🏋️ [TriCoach AI](https://github.com/paugratacosfuste/tricoach)**<br>
+AI-powered triathlon coach that generates personalized, adaptive weekly training plans using Claude AI. Built with TypeScript, React, Supabase auth & Vercel.<br>
 🔗 [Live App](https://tricoach-teal.vercel.app)
 
 </td>
 <td width="50%">
 
-**📊 [Job Application Tracker](https://github.com/paugratacosfuste/job_application_tracker)**  
-Full-stack application with Claude API integration to manage and optimize the job search process. TypeScript, React, Express.
+**📊 [Job Application Tracker](https://github.com/paugratacosfuste/job_application_tracker)**<br>
+Full-stack application with Claude API integration to manage and optimize the job search process. TypeScript, React, Express.<br>
 🔗 [Live App](https://job-application-tracker-three-psi.vercel.app/)
 
 </td>
@@ -35,13 +35,13 @@ Full-stack application with Claude API integration to manage and optimize the jo
 <tr>
 <td width="50%">
 
-**💼 [Portfolio Manager](https://github.com/paugratacosfuste/portfolio_manager)**  
+**💼 [Portfolio Manager](https://github.com/paugratacosfuste/portfolio_manager)**<br>
 Investment portfolio tracking and analysis tool. 5+ years managing personal investments with strong returns.
 
 </td>
 <td width="50%">
 
-**📈 [Portfolio Risk App](https://github.com/paugratacosfuste/Portfolio-Risk-App)**  
+**📈 [Portfolio Risk App](https://github.com/paugratacosfuste/Portfolio-Risk-App)**<br>
 Quantitative risk analysis application for investment portfolios. Python-based financial modeling.
 
 </td>
@@ -49,13 +49,13 @@ Quantitative risk analysis application for investment portfolios. Python-based f
 <tr>
 <td width="50%">
 
-**🏃 [Strava API + AWS](https://github.com/paugratacosfuste/Strava_API_AWS)**  
+**🏃 [Strava API + AWS](https://github.com/paugratacosfuste/Strava_API_AWS)**<br>
 Cloud-based fitness data pipeline integrating Strava's API with AWS infrastructure.
 
 </td>
 <td width="50%">
 
-**⌚ [Garmin Automation](https://github.com/paugratacosfuste/garmin_automation)**  
+**⌚ [Garmin Automation](https://github.com/paugratacosfuste/garmin_automation)**<br>
 Automated data extraction from Garmin devices. Python scripting for health & fitness analytics.
 
 </td>
