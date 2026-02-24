@@ -28,6 +28,7 @@ AI-powered triathlon coach that generates personalized, adaptive weekly training
 
 **📊 [Job Application Tracker](https://github.com/paugratacosfuste/job_application_tracker)**  
 Full-stack application with Claude API integration to manage and optimize the job search process. TypeScript, React, Express.
+🔗 [Live App](https://job-application-tracker-three-psi.vercel.app/)
 
 </td>
 </tr>
