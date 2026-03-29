@@ -55,8 +55,8 @@ Cloud-based fitness data pipeline integrating Strava's API with AWS infrastructu
 </td>
 <td width="50%">
 
-**⌚ [Garmin Automation](https://github.com/paugratacosfuste/garmin_automation)**<br>
-Automated data extraction from Garmin devices. Python scripting for health & fitness analytics.
+**⌚ [Spotify ML Pipeline](https://github.com/paugratacosfuste/ML_Spotify)**<br>
+Machine Learning pipeline that predicts whether a Spotify track will be a "hit" based on audio features.
 
 </td>
 </tr>
