@@ -2,7 +2,7 @@
 
 # Hey there, I'm Pau 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Builder+%7C+Data+%7C+Strategy;MSc+Business+Analytics+%40+Esade;From+insight+to+product" alt="Typing SVG" /></a>
+**Business Analytics MSc @ Esade · Data & Strategy · Builder**
 
 I sit at the intersection of business strategy and technical execution. Currently finishing my MSc in Business Analytics at Esade Business School, with 2+ years of experience driving data strategy at Teleperformance as a Google Partner. I don't just analyze data, I build tools that solve real problems.
 
@@ -19,7 +19,7 @@ I believe the best analysts are also builders. Here are some things I've been wo
 <tr>
 <td width="50%">
 
-**🏆 [N26 Clarity](https://github.com/dragonmei21/N26-)**  | `1st Place - Road to START BCN`<br>
+**🏆 [N26 Hackathon](https://github.com/dragonmei21/N26-)**  | `1st Place - Road to START BCN`<br>
 AI financial intelligence layer with causal chain reasoning, portfolio simulation, and personalized macro news. React, FastAPI, RAG pipeline, OpenAI.<br>
 🏅 Won the N26 hackathon challenge at Road to START Barcelona
 
