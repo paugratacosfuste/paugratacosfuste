@@ -19,7 +19,7 @@ I believe the best analysts are also builders. Here are some things I've been wo
 <tr>
 <td width="50%">
 
-**🏆 [N26 Clarity](https://github.com/dragonmei21/N26-)**  | `1st Place - Road to START BCN`<br>
+**🏆 [N26 Clarity](https://github.com/dragonmei21/N26-)** | 1st Place, Road to START BCN<br>
 AI financial intelligence layer with causal chain reasoning, portfolio simulation, and personalized macro news. React, FastAPI, RAG pipeline, OpenAI.<br>
 🏅 Won the N26 hackathon challenge at Road to START Barcelona
 
