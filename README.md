@@ -19,7 +19,7 @@ I believe the best analysts are also builders. Here are some things I've been wo
 <tr>
 <td width="50%">
 
-**🏆 [N26 Hackathon](https://github.com/dragonmei21/N26-)**  | `1st Place - Road to START BCN`<br>
+**🏆 [N26 Clarity](https://github.com/dragonmei21/N26-)**  | `1st Place - Road to START BCN`<br>
 AI financial intelligence layer with causal chain reasoning, portfolio simulation, and personalized macro news. React, FastAPI, RAG pipeline, OpenAI.<br>
 🏅 Won the N26 hackathon challenge at Road to START Barcelona
 
@@ -108,9 +108,11 @@ Machine Learning pipeline that predicts whether a Spotify track will be a "hit" 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paugratacosfuste&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paugratacosfuste&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/paugratacosfuste/paugratacosfuste/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/paugratacosfuste/paugratacosfuste/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/paugratacosfuste/paugratacosfuste/output/github-snake-dark.svg" width="100%" />
+</picture>
 
 ---
 
