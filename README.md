@@ -2,7 +2,7 @@
 
 # Hey there, I'm Pau 👋
 
-**Business Analytics MSc @ Esade · Data & Strategy · Builder**
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=70A5FD&width=435&lines=Builder+%7C+Data+%7C+Strategy;MSc+Business+Analytics+%40+Esade;From+insight+to+product" alt="Typing SVG" /></a>
 
 I sit at the intersection of business strategy and technical execution. Currently finishing my MSc in Business Analytics at Esade Business School, with 2+ years of experience driving data strategy at Teleperformance as a Google Partner. I don't just analyze data, I build tools that solve real problems.
 
@@ -19,11 +19,34 @@ I believe the best analysts are also builders. Here are some things I've been wo
 <tr>
 <td width="50%">
 
+**🏆 [N26 Clarity](https://github.com/dragonmei21/N26-)**  | `1st Place - Road to START BCN`<br>
+AI financial intelligence layer with causal chain reasoning, portfolio simulation, and personalized macro news. React, FastAPI, RAG pipeline, OpenAI.<br>
+🏅 Won the N26 hackathon challenge at Road to START Barcelona
+
+</td>
+<td width="50%">
+
 **🏋️ [TriCoach AI](https://github.com/paugratacosfuste/tricoach)**<br>
 AI-powered triathlon coach that generates personalized, adaptive weekly training plans using Claude AI. Built with TypeScript, React, Supabase auth & Vercel.<br>
 🔗 [Live App](https://tricoach-teal.vercel.app)
 
 </td>
+</tr>
+<tr>
+<td width="50%">
+
+**🤖 [Aegis Trading](https://github.com/paugratacosfuste/aegis-trading)**<br>
+Algorithmic trading system with backtesting engine and live execution. Python, PostgreSQL, event-driven architecture.
+
+</td>
+<td width="50%">
+
+**🏨 [Hoteles Garbi - Capstone](https://github.com/CarlosvdK/Garbi)**<br>
+MSc Capstone: international expansion strategy for a Spanish hotel chain. Monte Carlo revenue simulation, destination scoring, risk-adjusted ranking.
+
+</td>
+</tr>
+<tr>
 <td width="50%">
 
 **📊 [Job Application Tracker](https://github.com/paugratacosfuste/job_application_tracker)**<br>
@@ -31,18 +54,10 @@ Full-stack application with Claude API integration to manage and optimize the jo
 🔗 [Live App](https://job-application-tracker-three-psi.vercel.app/)
 
 </td>
-</tr>
-<tr>
 <td width="50%">
 
 **💼 [Portfolio Manager](https://github.com/paugratacosfuste/portfolio_manager)**<br>
 Investment portfolio tracking and analysis tool. 5+ years managing personal investments with strong returns.
-
-</td>
-<td width="50%">
-
-**📈 [Portfolio Risk App](https://github.com/paugratacosfuste/Portfolio-Risk-App)**<br>
-Quantitative risk analysis application for investment portfolios. Python-based financial modeling.
 
 </td>
 </tr>
@@ -50,13 +65,13 @@ Quantitative risk analysis application for investment portfolios. Python-based f
 <td width="50%">
 
 **🏃 [Strava API + AWS](https://github.com/paugratacosfuste/Strava_API_AWS)**<br>
-Cloud-based fitness data pipeline integrating Strava's API with AWS infrastructure.
+Cloud-based fitness data pipeline integrating Strava's API with AWS serverless infrastructure. Lambda, DynamoDB, API Gateway, S3, CloudFront.
 
 </td>
 <td width="50%">
 
-**⌚ [Spotify ML Pipeline](https://github.com/paugratacosfuste/ML_Spotify)**<br>
-Machine Learning pipeline that predicts whether a Spotify track will be a "hit" based on audio features.
+**🎵 [Spotify ML Pipeline](https://github.com/paugratacosfuste/ML_Spotify)**<br>
+Machine Learning pipeline that predicts whether a Spotify track will be a "hit" based on audio features. XGBoost, scikit-learn.
 
 </td>
 </tr>
@@ -74,7 +89,7 @@ Machine Learning pipeline that predicts whether a Spotify track will be a "hit" 
 
 **Frameworks & Tools**  
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
 
@@ -94,7 +109,7 @@ Machine Learning pipeline that predicts whether a Spotify track will be a "hit" 
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paugratacosfuste&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=paugratacosfuste&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 ---
@@ -103,8 +118,8 @@ Machine Learning pipeline that predicts whether a Spotify track will be a "hit" 
 
 - 🎓 MSc Business Analytics @ **Esade Business School** (in progress)
 - 💼 2+ years at **Teleperformance** as Google Partner, managing data strategy across large client portfolios
-- 📈 Active investor: 5+ years managing a personal portfolio with a passion for quantitative finance
-- 🏊🚴🏃 Triathlete: built my own AI coach because why not
+- 🏆 1st place, N26 challenge @ **Road to START Barcelona** hackathon
+- 🏊🚴🏃 Triathlete & marathoner: built my own AI coach because why not
 - 🌎 International background: Spain, Chile, Portugal
 
 ---
